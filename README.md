@@ -1,4 +1,4 @@
-# Customer Support Chatbot using TinyLlama (Colab + T4 GPU)
+# Customer Support Chatbot using TinyLlama 
 
 This project implements a lightweight customer support chatbot powered by the open-source [TinyLlama/TinyLlama-1.1B-Chat-v1.0](https://huggingface.co/TinyLlama/TinyLlama-1.1B-Chat-v1.0) language model. The application runs entirely in Google Colab using a T4 GPU and is served through a Gradio web interface.
 
